@@ -2,4 +2,4 @@
 title: Welcome to my blog
 ---
 
-Nothing interesting here, get out of here!
+Nothing interesting here, I think
