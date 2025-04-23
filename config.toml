@@ -1,0 +1,8 @@
+baseURL = "https://blog.thiromi.com/"
+languageCode = "en-us"
+title = "thiromi's blog"
+theme = "paper"
+
+[params]
+  description = "Random stuff coming from this regular mind"
+  github = "thiromi"

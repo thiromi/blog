@@ -42,3 +42,21 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# Hugo default output directory
+/public/
+
+# Hugo resources directory
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Hugo module cache
+/go.sum
+/go.mod
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
