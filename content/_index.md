@@ -2,6 +2,6 @@
 title: "Home"
 ---
 
-Welcome to my blog! This site was converted from Jekyll to Hugo.
+Welcome to my blog!
 
 Check out my latest posts below.

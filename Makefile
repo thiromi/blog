@@ -1,6 +1,6 @@
-.PHONY: serve build clean new-post
+.PHONY: up build clean new-post
 
-serve:
+up:
 	docker-compose up
 
 build:

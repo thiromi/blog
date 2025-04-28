@@ -1,6 +1,6 @@
 services:
   site:
-    image: klakegg/hugo:latest
+    image: hugomods/hugo:base
     command: server --buildDrafts --buildFuture --bind 0.0.0.0
     ports:
       - "1313:1313"
